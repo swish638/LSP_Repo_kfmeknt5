@@ -24,7 +24,7 @@ public class LSP_Fall_2024_Assignment2 {
 
 
 
-package org.howard.edu.lsp.assignment2;
+//package org.howard.edu.lsp.assignment2;
 
 //public class wordCounter {
 //
