@@ -1,7 +1,7 @@
 
-/**
-*  Name: Chase Adams IV 
-*/
+//
+// Name: Chase Adams IV 
+//
 
 
 
@@ -17,9 +17,9 @@ public class LSP_Fall_2024_Assignment2 {
 }
 
 
-/**
-*  Name: Chase Adams IV
-*/
+//
+// Name: Chase Adams IV
+//
 
 
 
